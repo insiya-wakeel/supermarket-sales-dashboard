@@ -40,12 +40,16 @@
 
 💡 **Purpose**
 
- This dashboard enables sales leaders, regional managers, and analysts to:
-    ✔ Proficiency in building interactive dashboards
-    ✔ Storytelling using bookmarks and navigation buttons
+ This dashboard enables sales leaders, regional managers, and analysts to:   
+    ✔ Proficiency in building interactive dashboards   
+    ✔ Storytelling using bookmarks and navigation buttons   
     ✔ Ability to uncover business insights from supermarket data
     
-      
+ 👀 **Viewing the Power BI Report**
+ 
+   The interactive Power BI report is available as a .pbix file in this repository.   
+   Note: Power BI files cannot be previewed directly on GitHub. To explore the report interactively, please download the .pbix file and open it in Power BI Desktop.
+   For a quick view of the report, please refer to the PDF version.     
       
       
 
