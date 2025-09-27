@@ -40,10 +40,14 @@
 
 💡 **Purpose**
 
-   This project demonstrates
-      * Proficiency in building interactive dashboards
-      * Storytelling using bookmarks and navigation buttons
-      * Ability to uncover business insights from supermarket data
+ This dashboard enables sales leaders, regional managers, and analysts to:
+    ✔ Proficiency in building interactive dashboards
+    ✔ Storytelling using bookmarks and navigation buttons
+    ✔ Ability to uncover business insights from supermarket data
+    
+      
+      
+      
 
 
 
