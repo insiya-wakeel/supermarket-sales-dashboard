@@ -2,7 +2,7 @@
 
 📌 **Overview**
 
-This interactive Power BI dashboard designed to analyze supermarket sales and revenue performance across USA, Mexico and Canada.The report offers users actionable insights into total transactions, profits, returns, profit margins, and regional performance, empowering data-driven decision making for retail businesses.
+   This interactive Power BI dashboard designed to analyze supermarket sales and revenue performance across USA, Mexico and Canada.The report offers users actionable insights into total transactions, profits, returns          profit margins, and regional performance, empowering data-driven decision making for retail businesses.
 
 🎯 **Objectives**
 
@@ -40,7 +40,7 @@ This interactive Power BI dashboard designed to analyze supermarket sales and re
 
 💡 **Purpose**
 
-   This project demonstrates:
+     This project demonstrates:
    ✔ Proficiency in building interactive dashboards
    ✔ Storytelling using bookmarks and navigation buttons
    ✔ Ability to uncover business insights from supermarket data
